@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Mauro Orazio Drago
+# Hi there 👋 I'm Mauro
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="52%" align="center" alt="Github" src="https://github.com/madratak/madratak/blob/main/image_readme.gif" />
 
 I'm an  **Artificial Intelligence** student at the **Politecnico di Milano**. 
 
@@ -16,12 +16,10 @@ I’m passionate about writing code, solving complex problems, and building inno
 ### 📫 Let's Connect
 Feel free to reach out to me:
 
-<a href="https://linkedin/in/maurooraziodrago" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn Logo" width="30" height="30"/>
-</a>
-<a href="mailto:madratak@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=37246&format=png&color=000000" alt="Gmail Logo" width="30" height="30"/>
-</a>
+<div align=left>
+ <a href="https://www.linkedin.com/in/maurooraziodrago/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+<a href="mailto:madratak@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+</div>
 
 ---
 
