@@ -9,9 +9,9 @@ I’m passionate about writing code, solving complex problems, and building inno
 ---
 
 ### 🌱 Currently Learning
-- **Reinforcement Learning**: Exploring how agents can learn from their environment to make decisions.
-- **Natural Language Processing (NLP)**: Understanding how to enable machines to understand and respond to human language.
 - **Recommender Systems**: Developing algorithms that personalize user experiences.
+- **Natural Language Processing (NLP)**: Understanding how to enable machines to understand and respond to human language.
+- **Reinforcement Learning**: Exploring how agents can learn from their environment to make decisions.
 
 ### 📫 Let's Connect
 Feel free to reach out to me:
