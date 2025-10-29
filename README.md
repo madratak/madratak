@@ -8,10 +8,10 @@ I’m passionate about writing code, solving complex problems, and building inno
 
 ---
 
-### 🌱 Currently Learning
-- **Recommender Systems**: Developing algorithms that personalize user experiences.
-- **Natural Language Processing (NLP)**: Understanding how to enable machines to understand and respond to human language.
-- **Reinforcement Learning**: Exploring how agents can learn from their environment to make decisions.
+### 🌱 Currently Exploring
+- **Recommender Systems**: Graph-based, matrix factorization, and neural approaches for personalized user experiences.
+- **Large Language Models (LLMs)**: Transformer fine-tuning, text generation, and semantic understanding.
+- **Multimodal AI**: Combining vision and language for tasks like Visual Question Answering and cross-modal reasoning.
 
 ### 📫 Let's Connect
 Feel free to reach out to me:
